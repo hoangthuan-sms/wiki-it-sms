@@ -9,14 +9,14 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "my-emdash-site",
+			"database_name": "wiki-it-sms",
 			"database_id": "f4e8512f-adb0-4b27-a740-551edfb1a337"
 		},
 	],
 	"r2_buckets": [
 		{
 			"binding": "MEDIA",
-			"bucket_name": "wiki-it-sms-media",
+			"bucket_name": "wiki-it-sms-media"
 		},
 	],
 	"build": {
